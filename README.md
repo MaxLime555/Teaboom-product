@@ -1,6 +1,6 @@
 ## Демо
 
-[Открыть карточку товара](https://MaxLime555.github.io/teaboom-product/)
+[Открыть карточку товара](https://maxlime555.github.io/Teaboom-product/)
 
 # Карточка товара Teaboom.ru
 
