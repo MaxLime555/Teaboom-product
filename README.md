@@ -10,7 +10,7 @@ HTML5, CSS Grid/Flexbox и JavaScript. Без фреймворков, завис
 ## Запуск
 
 Откройте `index.html` в браузере. Установка Node.js и пакетов не требуется.
-Для Windows: Откройте PowerShell в корне проекта `start .\index.htm`
+Для Windows: Откройте PowerShell в корне проекта `start .\index.html`
 
 ## Структура
 
